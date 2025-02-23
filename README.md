@@ -1,6 +1,7 @@
 # Alpha Vantage DIA Price Tracker
 
 A JavaFX application that fetches and displays the latest DIA ETF (Dow Jones Industrial Average proxy) price using the 15-minute delayed Alpha Vantage API. The application retrieves data every 5 seconds and dynamically updates a line chart with the latest price information. 
+
 Project summary: https://www.linkedin.com/in/mj-yuan-786678324/details/projects/
 
 ## Screenshot
